@@ -4,7 +4,7 @@ import ContactForm from 'components/ContactForm';
 import ContactList from 'components/ContactList';
 import Filter from 'components/Filter';
 
-import s from './App.module.css';
+import s from './App.modules.css';
 
 function App() {
   return (
